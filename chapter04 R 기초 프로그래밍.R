@@ -210,7 +210,7 @@ calculator <- function (num1,  op , num2) {
 n <- calculator(1,"+",2)    	# n은 calculator()로부터 반환받은 3을 저장
 print(n) 
 
-n <- calculator(1,"-",2)    	# n은 calculator()로부터 반환받은 3을 저장
+n <- calculator(1,"-",2)    	# n은 calculator()로부터 반환받은 -1을 저장
 print(n) 
 
  
