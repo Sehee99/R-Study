@@ -34,7 +34,7 @@ levels(sido)
 
 # NULL과 NA
 a <- NULL  # NULL은 변수에 값이 아직 정해지지 않았다는 의미로 변수를 초기화할 때 사용
-jumsu <- c(NA, 90, 100)  # NA는 '결측치'를 의미하는 상수수
+jumsu <- c(NA, 90, 100)  # NA는 '결측치'를 의미하는 상수
 
 # Inf와 NaN
 10/0  # Inf는 무한대 실수를 의미하는 상수
